@@ -1,0 +1,18 @@
+{
+  "schema": "3ds-tile-library/v1",
+  "id": "replace-with-collection-id",
+  "name": "Replace with collection name",
+  "version": "1.0.0",
+  "license": "Replace with a license identifier or URL",
+  "tiles": [
+    {
+      "id": "replace-with-tile-id",
+      "name": "Replace with a tile name",
+      "format": "png",
+      "width": 16,
+      "height": 16,
+      "url": "https://raw.githubusercontent.com/pedrotobiasbleda/3ds-tile-library/main/collections/replace-with-collection-id/tiles/replace-with-tile-id.png",
+      "sha256": "optional-sha256-hex"
+    }
+  ]
+}
