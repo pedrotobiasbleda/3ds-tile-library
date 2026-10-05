@@ -1,0 +1,6 @@
+{
+  "schema": "3ds-tile-library/v1",
+  "name": "3DS Tile Library",
+  "description": "Public tile collections for Nintendo 3DS homebrew.",
+  "collections": []
+}
